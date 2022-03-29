@@ -1,2 +1,4 @@
 /env
 weather.dat
+/.ipynb_checkpoints
+.DS_store
